@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nupur48/nodejs-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nupur48/nodejs-assignment/issues"
+  },
+  "homepage": "https://github.com/Nupur48/nodejs-assignment#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
